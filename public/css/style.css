@@ -1,0 +1,57 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #EAC926;
+    width: 90%;
+}
+h2 {
+    font-size: 24px;
+}
+p {
+    font-size: 12px;
+}
+
+.precio {
+    font-size: 18px;
+}
+.descuento {
+    font-size: 16px;
+}
+.descripcion {
+    font-size: 16px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.compra-cuotas {
+    text-align: left;
+}
+
+footer {
+    text-align: left;
+    
+}
+div .producto {
+    margin: 10px;
+    width: 500px;
+
+}
+div .detalle-envio {
+    border: solid 1px #ebebeb;
+    margin-bottom: 10px;
+    background-color: white;
+    padding-left: 10px;
+    width: 500px;
+
+}
+div .detalle-envio .descuento {
+    color: greenyellow;
+    padding-top: 5px;
+}
+img {
+    width: 511px;
+}
+header {
+    text-align: left;
+}
